@@ -3,19 +3,19 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm <a href="https://sudeshnb.xyz"> Sudesh Bandara.</a> 💪</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm <a href="https://dharmik20015.xyz"> Dharmik Rakholiya.</a> 💪</h1>
 <br>
-<h3 align="center">Mobile App Developer | Online Entrepreneur | Data Analysis Enthusiast</h3>
+<h3 align="center">Mobile App Developer</h3>
 <h4 align="center"> I am a mobile app developer using FLUTTER. The junior full-stack developer who's been doing this stuff for over 3 years.</h4>
 
 <br>
 <div align="center" class="row">
-    <img src="https://img.shields.io/github/followers/sudeshnb?logo=github&label=Github%20Followers&style=non" alt="sudeshnb" />
-    <img src="https://img.shields.io/github/stars/sudeshnb?logo=github&label=Github%20Stars&style=non" alt="sudeshnb" />
-<!--     <img alt="followers" src="https://img.shields.io/github/followers/sudeshnb?label=Followers&style=social"> -->
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=non&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/sudeshnb" alt="sudeshnb" />
-    <img src="https://komarev.com/ghpvc/?username=sudeshnb&logo=github&color=brightgreen" alt="watching_count" />
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=non&logo=Linkedin&link=https://www.linkedin.com/in/sudeshnb/" alt="sudeshnb" />
+    <img src="https://img.shields.io/github/followers/dharmik20015?logo=github&label=Github%20Followers&style=non" alt="dharmik20015" />
+    <img src="https://img.shields.io/github/stars/dharmik20015?logo=github&label=Github%20Stars&style=non" alt="dharmik20015" />
+<!--     <img alt="followers" src="https://img.shields.io/github/followers/dharmik20015?label=Followers&style=social"> -->
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=non&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/dharmik20015" alt="dharmik20015" />
+    <img src="https://komarev.com/ghpvc/?username=dharmik20015&logo=github&color=brightgreen" alt="watching_count" />
+    <img src="https://img.shields.io/badge/-CONNECT-blue?style=non&logo=Linkedin&link=https://www.linkedin.com/in/dharmik20015/" alt="dharmik20015" />
 </div>
 
 <br>
@@ -43,15 +43,12 @@
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
 ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![.NET Badge](https://img.shields.io/badge/.NET-05122A?logo=dotnet&style=flat)
-![Go Badge](https://img.shields.io/badge/Go-05122A?logo=go&style=flat)
 
 ##### Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb&style=flat)
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-05122A?style=flat-square&logo=microsoft-azure)
 ![AWS Amplify Badge](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=awsamplify)
@@ -66,13 +63,8 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=laravel)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-05122A?logo=apachekafka&style=flat)
+
 
 <br/>
 
@@ -89,16 +81,16 @@
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudeshnb&show_icons=true&locale=en" alt="sudeshnb" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmik20015&show_icons=true&locale=en" alt="dharmik20015" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeshnb&" alt="sudeshnb" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmik20015&" alt="dharmik20015" />
     </td>
    </tr>
  <tr>
     <td>
-      <a href="https://github.com/sudeshnb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshnb&theme=light&hide_langs_below=1" />
+      <a href="https://github.com/dharmik20015">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmik20015&theme=light&hide_langs_below=1" />
 </a>
     </td>
     
@@ -107,7 +99,7 @@
 <!-- <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sudeshnb" alt="Talha's github stats"/>    
+      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=dharmik20015" alt="Talha's github stats"/>    
     </td> 
    </tr>
 </table> -->
@@ -119,7 +111,7 @@
 </details>
 <details><summary><strong><h3>🏆 GitHub Trophies</h3></strong></summary>
  
-![](https://github-profile-trophy.vercel.app/?username=sudeshnb&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dharmik20015&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 </details>
 
@@ -128,7 +120,7 @@
 ❤ Mobile app development in my blood ❤
 <br />
 <br />
-<img align="center" src = "https://profile-counter.glitch.me/sudeshnb/count.svg" alt ="Loading...">
+<img align="center" src = "https://profile-counter.glitch.me/dharmik20015/count.svg" alt ="Loading...">
 </div>
 
 
@@ -138,29 +130,29 @@
 ### Connect With Me
 
  
-[<img align="left" alt="sudeshnb | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
-[<img align="left" alt="sudeshnb | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
-[<img align="left" alt="sudeshnb | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
-[<img align="left" alt="sudeshnb | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-[<img align="left" alt="sudeshnb | LinkedIn" src="https://img.shields.io/twitter/follow/sudesh78?style=social&logo=X" />][twitter]
-[<img align="left" alt="Msudeshnb | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
-[<img align="left" alt="sudeshnb | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
-[<img align="left" alt="sudeshnb | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
-[<img align="left" alt="sudeshnb | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
+[<img align="left" alt="dharmik20015 | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+[<img align="left" alt="dharmik20015 | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+[<img align="left" alt="dharmik20015 | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube]
+[<img align="left" alt="dharmik20015 | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt="dharmik20015 | LinkedIn" src="https://img.shields.io/twitter/follow/sudesh78?style=social&logo=X" />][twitter]
+[<img align="left" alt="dharmik20015 | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
+[<img align="left" alt="dharmik20015 | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
+[<img align="left" alt="dharmik20015 | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
+[<img align="left" alt="dharmik20015 | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
 
 <br />
 <br />
 
-[website]: https://sudeshnb.xyz
+[website]: https://dharmik20015.xyz
 [whatsapp]: https://wa.me/94741325674
 [mail]: https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvkXFgPlnbqWvNTVVtpCgpgmNpntTSctVHgdqlngkMnbsSVRSRdMRzPQJvZgTNcmLRTdfg
 [twitter]: https://twitter.com/sudesh78](https://twitter.com/intent/follow?screen_name=sudesh78
 [youtube]: https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg
-[linkedin]: https://linkedin.com/in/sudeshnb
-[github]: https://github.com/sudeshnb
+[linkedin]: https://linkedin.com/in/dharmik20015
+[github]: https://github.com/dharmik20015
 [instagram]: https://www.instagram.com/sudesh_nb
-[facebook]: https://www.facebook.com/sudeshnb
-[medium]: https://medium.com/@sudeshnb
+[facebook]: https://www.facebook.com/dharmik20015
+[medium]: https://medium.com/@dharmik20015
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
 [vscode]: https://code.visualstudio.com
